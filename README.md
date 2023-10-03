@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [RIYA-1.0-The-Personal-Assis Crypto Currencytant](https://github.com/gourobdas0103/RIYA-1.0-The-Personal-Assistant)
+- 🔭 I’m currently working on [RIYA-1.0-The-Personal-Assistant and Crypto Currency price prediction](https://github.com/gourobdas0103/RIYA-1.0-The-Personal-Assistant)
 
 - 🌱 I’m currently learning **AI/ML & Android Application,**
 
