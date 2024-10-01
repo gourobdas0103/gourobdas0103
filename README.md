@@ -16,8 +16,9 @@
 
 - 📫 How to reach me **gourobdas0103@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.me/gourobdas0103](https://flowcv.me/gourobdas0103)
-  
+- 📄 Know about my experiences [LinkedIn ](https://www.linkedin.com/in/gourobdas/)
+
+- 📄 Protfolio [Portfolio](https://flowcv.me/gourobdas0103)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
