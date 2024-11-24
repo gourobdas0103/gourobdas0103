@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
 <h1 align="center">Hi 👋, I'm Gourob Das</h1>
-<h3 align="center">A passionate abour Cloud & DevOps Engineer Enthusiasts from India</h3>
+<h3 align="center">Python Developer and Cloud & DevOps Engineer Enthusiasts </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
